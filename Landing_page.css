@@ -1,0 +1,124 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nav-icon{
+    font-weight: bold;
+    color:#25424c;
+    font-size: 22px;
+}
+.nav-sp{
+    color:#fb770d;
+}
+#nav-item0,#nav-item1,#nav-item2,#nav-item3,#nav-item4{
+    color:#25424c;
+    font-weight: 400;
+    font-size: 15px;
+}
+#nav-item5{
+   font-weight: 600;
+   color:#25424c;
+}
+/*Banner section*/
+.banner-section{
+    padding-top: 15%;
+}
+.b-img{
+    height:300px;
+    padding-bottom: 10px;
+}
+.b-title{
+ font-weight: bold;
+ color:#25424c;
+}
+.b-sub-title{
+    color:#25424c;
+    font-weight: 400;
+}
+.b-btn{
+    background-color: #fb770d;
+    border-radius: 18px;
+    width:200px;
+    color:white;
+    box-shadow: 0px 0px 3px 3px #fb770d;
+}
+.b-btn:hover{
+    background-color:#25424c;
+    border-radius: 18px;
+    width:200px;
+    color:white;
+    box-shadow: 0px 0px 3px 3px #25424c;
+}
+/* Features section*/
+.feature-name{
+    font-weight: 700;
+    font-size:20px;
+    color:#25424c;
+}
+.feature-des{
+    color:#25424c;
+}
+.f-img{
+    height:230px;
+}
+/*About us section*/
+.a-card{
+    padding:50px;
+    border-radius: 10px;
+}
+.a-img{
+    height:270px;
+}
+.a-title{
+    font-weight: 600;
+    font-size: 35px;
+    color:#25424c;
+}
+.a-des{
+    color:#25424c;
+}
+.a-btn{
+    background-color: #25424c;
+    border-radius: 18px;
+    width:200px;
+    color:white;
+}
+.a-btn:hover{
+    color: white;
+}
+/*Login section*/
+.s-card{
+    padding:10px;
+    border-radius: 20px;
+    text-align: center;
+}
+.l-title{
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+.form-box{
+    width:80%;
+    padding: 8px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #25424c;
+}
+.form-box1{
+    background-color: #fb770d;
+    border-style: solid;
+    color: white;
+    font-weight: 800;
+    border-color: #25424c;
+}
+.f-link{
+    color:#25424c;
+    text-align: center;
+}
+.fo-img{
+    width:100%;
+}
+/*contact section*/
+.con-n{
+color: #25424c;
+font-size: 18px;
+}
