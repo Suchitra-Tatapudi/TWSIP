@@ -1,0 +1,182 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nav-bar{
+    padding-top:10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.nav-sub{
+    color:gray;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    margin-left: 3.5rem;
+}
+.nav-span{
+    color:#ffe500;
+    font-size: 13px;
+    font-weight: 600;
+}
+.search-bar{
+    background-color: #e5fbff;
+    width:400px;
+    padding:10px;
+    border-radius: 7px;
+}
+.search{
+    border-style: none;
+    background-color: #e5fbff;
+    width:300px;
+    padding-left:5px;
+}
+.nav-item{
+    color: #333333;
+    padding:9px;
+    font-size: 17px;
+}
+.nav-item1{
+    color:#333333;
+}
+.item-section{
+    background-color: #d4dcde;
+    padding: 15px;
+}
+.item-sub-section{
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.item-name{
+    color:black;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+}
+
+/*slie show*/
+.slideshow-container {
+    width: 100%;
+    position: relative;
+    margin: 15px 1px; 
+}
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.8s ease;
+    border-radius: 0 5px 5px 0;
+}
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+    background-color: white;
+}
+/*next section*/
+.details-section{
+    background-color: white;
+    padding:10px;
+    width:90%;
+}
+.det-sec-2{
+    background-color: white;
+    padding: 20px 0px;
+}
+.det-title{
+    margin:20px 7px;
+    font-size: 23px;
+    color:#333333;
+}
+.det-sec-img{
+    width:220px;
+    height:300px;
+}
+.det-sec-imgs{
+    width:220px;
+    height:170px;
+}
+.det-des{
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: gray;
+    padding: 8px;
+}
+.details-section1{
+    background-color: white;
+    padding:20px;
+    margin:10px 0px;
+}
+.det-sec-img1{
+    width:220px;
+    height:220px;
+}
+/*next section*/
+.details-section2{
+    background-color: white;
+    padding:10px;
+    margin:10px 0px;
+    width:42%;
+}
+.det-sec{
+    background-color: white;
+    margin-left: 40px;
+
+}
+.det-img{
+    width:600px;
+    height:auto;
+    padding: 50px 30px;
+}
+.flipkart-top-stories{
+    font-size: 12px;
+}
+span{
+    color:#333333;
+    font-size:17px;
+    font-weight: 500;
+}
+.footer-section{
+    background-color: #333333;
+    padding:2px;
+    width:100%;
+}
+.f-title{
+    color:#f1f1f1d0;
+    font-weight: 400;
+}
+.f-des{
+    color:white;
+    font-weight: 700;
+    font-size: 13px;
+}
+.vr-line{
+    border-left: 1px solid #e5fbff;
+    height:220px;
+    left: 50%;
+    margin-top:20px;
+    margin-bottom: 20px;
+   
+}
+hr{
+width:100%;
+background-color:#d4dcde;
+}
+.f-item{
+    color:white;
+    font-weight: 500;
+    font-size: 12px;
+}
